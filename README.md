@@ -79,5 +79,3 @@ To visualize random images from each category in the training, validation, and t
 This project demonstrates a successful implementation of a deep learning model for teeth classification. With proper preprocessing, augmentation, and model architecture, the model achieved high accuracy on the validation dataset, showing its potential for practical applications in dental image classification.
 
 ---
-
-You can customize this README to fit your specific needs, but this should give you a solid foundation.
