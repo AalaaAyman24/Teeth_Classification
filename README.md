@@ -5,10 +5,10 @@
 This project aims to classify dental images into seven different categories using deep learning techniques. The project involves preprocessing the images, visualizing the data, and building a convolutional neural network (CNN) model using TensorFlow and Keras to achieve high accuracy and low loss in classification.
 
 ## Table of Contents
-- [Project Overview](#project-overview)
+- [Project Overview](#projectoverview)
 - [Dataset](#dataset)
 - [Preprocessing and Augmentation](#preprocessing-and-augmentation)
-- [Model Architecture](#model-architecture)
+- [Model Architecture](#modelarchitecture)
 - [Training](#training)
 - [Evaluation](#evaluation)
 - [Usage](#usage)
